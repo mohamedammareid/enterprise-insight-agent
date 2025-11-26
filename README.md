@@ -1,4 +1,4 @@
-# Enterprise Insight Agent 🏢
+# Enterprise Insight Agent 
 
 A professional-grade Streamlit application that serves as a strategic decision support system, powered by OpenAI's GPT-4o. This agent is designed to provide concise, data-driven business insights.
 
@@ -57,3 +57,4 @@ You can modify the `AppConfig` class in `app.py` to change:
 - `PAGE_TITLE`: The title of the application.
 - `SYSTEM_PROMPT`: The persona and behavior of the AI.
 - `MODEL_NAME`: The OpenAI model to use (default: `gpt-4o`).
+
